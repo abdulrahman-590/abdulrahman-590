@@ -10,23 +10,23 @@
 <h2>💻 Software Development Projects:</h2>
 
 - <b>Android Java Apps</b>
-  - [Bottle Delivery App](https://www.google.com/)
-  - [Owt Of The Box - Photo Editor App](https://www.google.com/)
-  - [Orbino - Wallpaper App](https://www.google.com/)
-  - [La Taqnata - Islamic Supplication App](https://www.google.com/)
+  - Owt Of The Box - Photo Editor App
+  - Orbino - Wallpaper App
+  - La Taqnata - Islamic Supplication App
 - <b>Flutter Apps</b>
-  - [SnapWiz - Photo Editor App](https://www.google.com/)
-  - [Listify - Task Management App](https://www.google.com/)
-  - [WardRobe - Planned](https://www.google.com/)
+  - SnapWiz - Photo Editor App
+  - Listify - Task Management App
+  - WardRobe - Under Development
 - <b>Python</b>
-  - [A Simple ChatBot](https://www.google.com/)
+  - A Simple ChatBot
+  - AI
 
 <h2>📜 Certifications</h2>
 
 - [Google Certified Python Developer](https://coursera.org/share/c8a0fda92e9b552313e09d29f9c583c8)
 - [Using Python to Interact with the Operating System](https://coursera.org/share/3b25b64e66c627db7e1572026ff23a5e)
 - Android Developer
-- More on the Way!
+- Still learning!
 
 <h2> 🤳 Connect with me:</h2>
 
