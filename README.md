@@ -4,13 +4,12 @@
 
 - <b>Python</b>
 - <b>Java</b>
-- <b>C/C#</b>
+- <b>C language</b>
 - <b>Dart</b>
 
 <h2>💻 Software Development Projects:</h2>
 
 - <b>Android Java Apps</b>
-  - Owt Of The Box - Photo Editor App
   - Orbino - Wallpaper App
   - La Taqnata - Islamic Supplication App
 - <b>Flutter Apps</b>
