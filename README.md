@@ -14,7 +14,6 @@
   - La Taqnata - Islamic Supplication App
 - <b>Flutter Apps</b>
   - SnapWiz - Photo Editor App
-  - Listify - Task Management App
 - <b>Python</b>
   - A Simple ChatBot
   - AI CLI Programs
