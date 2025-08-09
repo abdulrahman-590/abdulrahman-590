@@ -1,11 +1,11 @@
-<h1>Hi, I'm AbdulRahman! <br/><a href="https://github.com/abdulrahman-590">Programmer</a>, <a>Tech Savvy</a>, <a>Student</a></h1>
+<h1>Hi, I'm AbdulRahman! <br/><a href="https://github.com/abdulrahman-590">"IT guy"</a>/h1>
 
 <h2>🧮 Programming Languages</h2>
 
 - <b>Python</b>
 - <b>Java</b>
 - <b>C language</b>
-- <b>Dart</b>
+- <b>Javascript</b>
 
 <h2>📜 Certifications</h2>
 
