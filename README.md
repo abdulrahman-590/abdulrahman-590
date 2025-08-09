@@ -1,4 +1,4 @@
-<h1>Hi, I'm AbdulRahman! <br/><a href="https://github.com/abdulrahman-590">"IT guy"</a>/h1>
+<h1>Hi, I'm AbdulRahman! </h1>
 
 <h2>🧮 Programming Languages</h2>
 
