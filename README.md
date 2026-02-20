@@ -1,6 +1,6 @@
 # Hi there, I'm AbdulRahman 👋
 
-Love programming and video games, and that pretty much sums up my personality
+Love programming and video games, and that pretty much sums up my personality  
 Programming and playing games since 12 (C still rocks)
 Computer Science student at the National Institute of Technology (NIT)
 
