@@ -77,7 +77,7 @@ Computer Science student at the National Institute of Technology (NIT)
 ---
 
 *Q. What does the R in Recursion stand for?  
-A. Recursion."*
+A. Recursion.*
 
 *Q: Whats the object-oriented way to become wealthy?  
 A: Inheritance.*
