@@ -1,20 +1,18 @@
 # Hi there, I'm AbdulRahman 👋
 
-Love programming and video games, and that pretty much sums up my personality  
-Programming and playing games since 12 (C still rocks)  
+Love programming, video games, and astronomy. Also throw in some neuroscience 
+C is kewl
 Computer Science student at the National Institute of Technology (NIT)
 
 ---
 
 ## 🎯 What I Do
 
-- 📱 Build cross-platform mobile applications with React Native
-- 🌐 Develop responsive web applications with React
-- 🛠️ Automation tools in Python
-- ☁️ Deploy and manage cloud infrastructure on AWS and Firebase
-- 🗄️ Work with both SQL and NoSQL databases
-- 🔧 Create scalable, maintainable, and efficient code
-- 🎮 Currently learning game dev!
+- 🤖 AI/ML
+- 🌐 Emulation & Computer Architecture
+- 📱 App and Web dev in REACT (JavaScript is a very bad language)
+- ☁️ Deploy and manage cloud infrastructure on AWS, Supabase, and Cloudflare
+- 🗄️ Worked with both SQL and NoSQL databases
 
 ---
 
@@ -71,8 +69,8 @@ Computer Science student at the National Institute of Technology (NIT)
 
 ## 🎮 Currently Playing
 
-- Death Stranding
-- Resident Evil 2 remake
+- Death Stranding (it's a long ass game 😭)
+- Assassin's Creed: Black Flag Resynced
 
 ---
 
