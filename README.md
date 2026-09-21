@@ -1,7 +1,6 @@
 # Hi there, I'm AbdulRahman 👋
 
-Love programming, video games, and astronomy. Also throw in some neuroscience 
-C is kewl
+Love programming, video games, and astronomy. Also throw in some neuroscience.   
 Computer Science student at the National Institute of Technology (NIT)
 
 ---
@@ -10,8 +9,8 @@ Computer Science student at the National Institute of Technology (NIT)
 
 - 🤖 AI/ML
 - 🌐 Emulation & Computer Architecture
-- 📱 App and Web dev in REACT (JavaScript is a very bad language)
-- ☁️ Deploy and manage cloud infrastructure on AWS, Supabase, and Cloudflare
+- 📱 App and Web dev in REACT (JavaScript is bad)
+- ☁️ Deployed and managed cloud infrastructure on AWS, Supabase, and Cloudflare
 - 🗄️ Worked with both SQL and NoSQL databases
 
 ---
@@ -43,7 +42,7 @@ Computer Science student at the National Institute of Technology (NIT)
 
 ### Databases
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
